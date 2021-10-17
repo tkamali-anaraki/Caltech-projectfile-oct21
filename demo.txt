@@ -1,1 +1,4 @@
-second line on main branch in demo.txt
+my first file in demo branch
+second line on main branch
+second line on demo1 branmch
+third line on demo.txt in demo branch
